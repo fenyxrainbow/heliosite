@@ -258,11 +258,11 @@ header{
 }
 .services__btn a,
 .news__btn a{
-  color: #373636;
+  color: #;
   line-height: 24px;
   letter-spacing: 0.25px;
   padding: 5px 38px;
-  border: 3px solid #e6e6e6;
+  border: 3px solid #ffc222;
 }
 .services__items{
   display: flex;
